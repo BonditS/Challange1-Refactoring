@@ -1,11 +1,11 @@
 # Challange1-Refactoring
 
-##User Story:
+## User Story:
 
     AS a marketing agency I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines.
 
-##Acceptance Criteria:
+## Acceptance Criteria:
 
     * The structure of the HTML elements meets the HTML semantic structure.
     
