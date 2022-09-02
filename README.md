@@ -8,11 +8,11 @@
 
     * The structure of the HTML elements meets the HTML semantic structure.
 
-    * HTML elements structure follows a logical structure independent of styling and positioning.**
+    * HTML elements structure follows a logical structure independent of styling and positioning.
 
-    * Icon and image elements have accessible alt attributes.**
+    * Icon and image elements have accessible alt attributes.
 
-    * Headding attributes fall in sequential order.**
+    * Headding attributes fall in sequential order.
     
     * HTML elements structure follows a logical structure independent of styling and positioning.
 
